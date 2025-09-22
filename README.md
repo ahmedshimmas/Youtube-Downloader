@@ -19,6 +19,8 @@ A **desktop GUI application** to download YouTube videos and audio with multiple
 ## Screenshots
 
 ![Screenshot](screenshots/gui_preview.png)  
+![Screenshot](screenshots/gui_preview-2.png)  
+![Screenshot](screenshots/gui_preview-3.png)  
 
 ---
 
